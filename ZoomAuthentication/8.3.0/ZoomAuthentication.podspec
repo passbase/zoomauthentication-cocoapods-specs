@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |spec|
 
-    spec.name         = "ZoomAuthenticationHybrid"
+    spec.name         = "ZoomAuthentication"
     spec.version      = "8.3.0"
     spec.summary      = "FaceTec's ZoOm iOS SDK - 3D Face Login + TrueLiveness"
     spec.homepage     = "https://dev.zoomlogin.com"
