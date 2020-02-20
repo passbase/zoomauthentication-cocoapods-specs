@@ -20,7 +20,7 @@ Pod::Spec.new do |spec|
     spec.source       = { :http => "https://button.passbase.com/__react-native/ZoomAuthentication-ios-8.3.0.zip" }
 
     spec.framework    = "ZoomAuthentication"
-    spec.vendored_frameworks = "ZoomAuthentication.framework"
+    spec.vendored_frameworks = "ZoomAuthentication/ZoomAuthentication.framework"
 
 end
 
